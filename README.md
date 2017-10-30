@@ -1,6 +1,6 @@
 # express-art-mini
 
-最简单的express和art集成
+最简单的express和art-template集成
 
 express-generator默认生成的是jade，我很喜欢jade的极简风格，唯一麻烦的就是要有转换思维，对初学者来说略麻烦。这里为了照顾大家，使用art-template，它类似jsp、asp、php等直接使用html标签的语法，可读性上更好，对新手更友好。
 
@@ -96,7 +96,7 @@ block content
 
 ## 性能
 
-其实在小量的时候确实比jade好，但量大的时候比jade要弱一点，辩证的看就好了。
+其实art-template在小量的时候确实比jade好，但量大的时候比jade要弱一点，辩证的看就好了。
 
 ## Contributing
 
