@@ -98,6 +98,13 @@ block content
 
 其实art-template在小量的时候确实比jade好，但量大的时候比jade要弱一点，辩证的看就好了。
 
+## 相关项目
+
+- https://github.com/moajs/express-art
+- https://github.com/moajs/express-art-mini
+- https://github.com/expressjs/generator
+- https://github.com/aui/art-template/
+
 ## Contributing
 
 1. Fork it
